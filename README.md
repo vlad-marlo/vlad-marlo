@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @marlooooo
-- 👀 I’m interested in XC, csgo
+- 👀 I’m interested in XC, volleyball
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+📫 How to reach me: 
+- telegram - @marlo_dev
+-  discord - marlo#8161
 
 <!---
 marlooooo/marlooooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
