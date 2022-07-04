@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 
 📫 How to reach me: 
-- telegram - @marlo_dev
+- telegram - @vlad_marlo
 -  discord - marlo#8161
 
 <!---
