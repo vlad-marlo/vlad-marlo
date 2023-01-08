@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marlooooo
 - 👀 I’m interested in XC, volleyball
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning golang
 
 📫 How to reach me: 
 - telegram - @vlad_marlo
