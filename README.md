@@ -9,10 +9,6 @@
   <br>
 </p>
 
-### 🎨 Current project
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vlad-marlo&repo=auth-server&theme=darcula&hide_border=true)](https://github.com/vlad-marlo/auth-server)
-
-
 ### 👍 You can contact me:
 <p align="left">
   &nbsp;
